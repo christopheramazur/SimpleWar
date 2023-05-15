@@ -1,0 +1,75 @@
+#Terminology
+##Rules
+Rules are statements that must be followed in order to play Simple War correctly. Whenever possible, a rule will be presented in this document in the form of a statement or series of statements describing the desired mechanic, ability, or interaction. Occasionally, these rules will be followed by explanatory text; this text will be clearly distinct from rules declarations by being contained in a quotebox. The explanatory text in these quote boxes are not rules themselves, but intended to provide simplified or accessible information about the more complex rules they summarize. 
+
+Rules are intended to be logically complete and internally consistent. Please reach 
+
+There are cases where rules may come into conflict with each other. 
+
+##Campaign
+A Campaign is the overarching concept defining the conflict which players engage in. Campaigns are led by Commanders, who have Armies which are composed of Units. Commanders send their Armies to a Battlefield in order to progress Missions by completing Objectives. 
+
+The archetypal Campaign is two Commanders pitting their Armies against each other, with the Mission Objectives on both sides being to destroy each other’s Armies. 
+
+The Campaign chosen will dictate many specifics about the size of conflict, the number of players and the teams they’re on, the way the terrain rules are set up, the Missions available, and so on. 
+
+##Commander
+Any players involved in the same Campaign are Commanders. Commanders are differentiated from each other using the phonetic alphabet (Alpha, Bravo, Charlie, etc.) based on turn order, with the Commander who goes first at the start of the Campaign being Alpha, the Commander who goes second being Bravo, and so on. 
+
+There are four broad classifications of Commander specificity: own, any, allied, and enemy. 
+ 
+From a given player’s perspective: 
+Own refers to that player’s own Commander
+Any refers to any player’s Commander, including their own
+Allied refers to any Commander on the player’s team
+Enemy refers to any Commander that isn’t allied
+
+These specificities apply to Armies, Missions, and Objectives as well. Unless otherwise stated, they are inherited from the Commander. That is to say, the Army of an enemy Commander is also an enemy Army, while a Mission a player selects for their own Commander is their own Mission.
+
+Combinations of these specificities can be used to reference specific categories, such as “any Unit not your own” to reference Units which are both a Commander’s Allies’ and Enemies’ Units, but not their own Units.
+
+##Army
+A Commander’s Army is represented by some sort of miniature, paper marker, die, or other indicator that roughly approximates members of their military might.These indicators are grouped into Units, which are representations of a Unit Reference.  
+
+Armies are primarily limited by Factions and Resources, which determine how the Army’s Units must be chosen in terms of organization and magnitude. The Faction, Resource cost, composition, and special rules of a Unit will be listed in its Unit Reference.
+
+Specific Campaigns or Missions may also affect the structure of an Army by imposing specific limitations. A general example may be by limiting or banning flying Units for Campaigns inside of structures or underground.
+
+A typical Campaign consists of Armies totalling 2000 Credits, in which every Unit of a Commander’s Army must share a Faction tag. 
+
+##Resources
+There are a number of resources Commanders may requisition an Army with. The most common is Credits, which are the generalist resource. Some Factions may have Unit References that require other resources. 
+
+##Mission
+Commanders accept Missions, which are thematic categories outlining the general purpose of the Campaign. Missions are composed of Objectives which have Conditions, Rewards, and Consequences. A Mission may also have its own Rewards and Consequences though these are not required. A Mission may have any number of Objectives, Rewards, and Consequences. 
+
+Example Mission:
+Eliminate the Enemy
+Objectives:
+Destroy an Enemy
+Conditions:
+An allied Unit destroyed an enemy Unit
+Rewards
+Gain 1 Score
+You may add a copy of this Objective to its Mission
+Rewards:
+Gain 1 Score for each allied Unit remaining at Campaign’s end
+Consequences:
+Lose 1 Score for each enemy Unit remaining at Campaign’s end
+
+Some Missions may allow Commanders to add or remove Objectives in order to alter the Rewards and Consequences. Others may be mutually exclusive with Missions that run counter-purpose, such as “Secure the Objective” and “Destroy the Objective”. These kinds of Missions will clearly state their special circumstances and rules. 
+
+Missions may outline special Actions that they grant allied or enemy Commanders for the purposes of completing or hindering their conditions. 
+
+A Commander can accept multiple Missions for a Campaign. Successful Missions generally award Resources or count toward the Campaign’s final Score. Failing a Mission incurs its Consequences, which can be varied and apply as specified by the Consequence in question. 
+
+##Objective
+An Objective is a specific condition that must be fulfilled by a Commander as part of a Mission. Objectives may reference Actions or Terrain features that Commanders can utilize in order to progress or hinder the completion of these conditions. An Objective is typically a combination of a condition check and a time specification. For example, 
+Objectives:
+Claim Territory
+Conditions:
+Complete the “Rally the Flag” Action before the end of the Round
+Rewards:
+Allied Units that completed a “Rally the Flag” Action get +1 Morale
+Consequences:
+Allied Units that started the “Rally the Flag” Action but did not complete it get -1 Morale
